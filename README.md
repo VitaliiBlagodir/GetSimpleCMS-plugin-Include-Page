@@ -1,0 +1,2 @@
+GetSimpleCMS-plugin-Include-Page
+================================
